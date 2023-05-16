@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For NecDecoder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NecDecoder	KEYWORD1
+NecEncoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+tick	KEYWORD2
+available	KEYWORD2
+readPacket	KEYWORD2
+readAddress	KEYWORD2
+readCommand	KEYWORD2
+isDecoded	KEYWORD2
+isRepeated	KEYWORD2
+send	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
